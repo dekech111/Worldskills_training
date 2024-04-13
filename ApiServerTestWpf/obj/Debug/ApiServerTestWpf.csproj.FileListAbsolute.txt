@@ -1,0 +1,15 @@
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\bin\Debug\ApiServerTestWpf.exe.config
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\bin\Debug\ApiServerTestWpf.exe
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\bin\Debug\ApiServerTestWpf.pdb
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.csproj.AssemblyReference.cache
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\MainWindow.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\App.g.cs
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf_MarkupCompile.cache
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf_MarkupCompile.lref
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\MainWindow.baml
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.g.resources
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.Properties.Resources.resources
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.csproj.GenerateResource.cache
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.csproj.CoreCompileInputs.cache
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.exe
+C:\Users\ilias\OneDrive\Рабочий стол\WebApplication2\ApiServerTestWpf\obj\Debug\ApiServerTestWpf.pdb
